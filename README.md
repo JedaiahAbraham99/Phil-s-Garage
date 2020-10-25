@@ -1,2 +1,2 @@
 # Phil-s-Garage
-This is a website created for Phil's Garage. An automotive repair and servicing company based in St Lucia.
+This is a website created for Phil's Garage. An automotive repair and servicing company based in St Lucia. There are 3 web pages. Main page(Index 1), a Contact Us page and an About page. Index 1 details the services provided by this companyand the operating hours. Contact Us provides details on how to make special orders and how to get in contact with a representative at the company. About us shares a brief overview of the company and its founders and how they seek to provide 100% customer satisfaction.  
